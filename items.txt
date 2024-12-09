@@ -1,0 +1,9 @@
+module Turretsystem {
+    item Turret
+    {
+        Type = Normal,
+        DisplayName = Turret,
+        Icon = TurretIcon,
+        Weight = 10,
+    }
+}
