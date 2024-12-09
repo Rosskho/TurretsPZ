@@ -1,0 +1,10 @@
+module Turretsystem {
+    recipe Craft Turret
+    {
+        4 MetalPipe,
+        2 ElectronicsScrap,
+        Screwdriver,
+        Result: Turret,
+        Time: 50.0,
+    }
+}
